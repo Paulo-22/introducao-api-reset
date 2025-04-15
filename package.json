@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Paulo-22/introducao-api-reset/issues"
   },
-  "homepage": "https://github.com/Paulo-22/introducao-api-reset#readme"
+  "homepage": "https://github.com/Paulo-22/introducao-api-reset#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
